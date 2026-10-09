@@ -1,7 +1,7 @@
 {
   "name": "Apex Metrics Pro",
-  "short_name": "ApexMetrics",
-  "start_url": "/",
+  "short_name": "Apex Metrics",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#1e1b4b",
@@ -9,7 +9,8 @@
     {
       "src": "logo.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
